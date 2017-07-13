@@ -1,10 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'view_tool_devcamp/version'
+require 'view_tool_devamp_ruby_gem_ruby_gem/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "view_tool_devcamp_ruby_gem"
+  spec.name          = "view_tool_devamp_ruby_gem_ruby_gem"
   spec.version       = ViewToolDevcampRubyGem::VERSION
   spec.authors       = ["Jordan Hudgens"]
   spec.email         = ["jordan@devcamp.com"]
