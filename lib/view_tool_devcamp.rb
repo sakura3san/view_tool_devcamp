@@ -1,6 +1,6 @@
-require "view_tool_devcamp/version"
-require "view_tool_devcamp/renderer"
+require "view_tool_devcamp_ruby_gem/version"
+require "view_tool_devcamp_ruby_gem/renderer"
 
-module ViewToolDevcamp
+module ViewToolDevcampRubyGem
   # Your code goes here...
 end

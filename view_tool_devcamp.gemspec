@@ -4,8 +4,8 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'view_tool_devcamp/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "view_tool_devcamp"
-  spec.version       = ViewToolDevcamp::VERSION
+  spec.name          = "view_tool_devcamp_ruby_gem"
+  spec.version       = ViewToolDevcampRubyGem::VERSION
   spec.authors       = ["Jordan Hudgens"]
   spec.email         = ["jordan@devcamp.com"]
 
